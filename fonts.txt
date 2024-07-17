@@ -1,0 +1,386 @@
+1Row
+Efti\ Italic
+oldbanner              
+3d                       
+Efti\ Piti               
+OS2                    
+3-D                      
+Efti\ Robot              
+Patorjk-HeX            
+3D\ Diagonal             
+Efti\ Wall               
+Patorjk\'s\ Cheese     
+3D-ASCII                 
+Efti\ Water              
+Pawp                   
+3d_diagonal              
+eftichess                
+Peaks                  
+3x5                      
+eftifont                 
+Peaks\ Slant           
+4Max                     
+eftipiti                 
+peaksslant             
+5\ Line\ Oblique         
+eftirobot                
+Pebbles                
+5lineoblique             
+eftitalic                
+Pepper                 
+Acrobatic                
+eftiwall                 
+Poison                 
+Alligator                
+eftiwater                
+Puffy                  
+Alligator2               
+Electronic               
+Puzzle                 
+alligator3               
+Elite                    
+Pyramid                
+Alpha                    
+Epic                     
+Rammstein              
+Alphabet                 
+Fender                   
+Rectangles             
+AMC\ 3\ Line             
+Filter                   
+Red\ Phoenix           
+AMC\ 3\ Liv1             
+Fire\ Font-k             
+red_phoenix            
+AMC\ AAA01               
+Fire\ Font-s             
+Relief                 
+AMC\ Neko                
+fire_font-k              
+Relief2                
+AMC\ Razor               
+fire_font-s              
+rev                    
+AMC\ Razor2              
+Flipped                  
+Reverse                
+AMC\ Slash               
+Flower\ Power            
+Roman                  
+AMC\ Slider              
+flowerpower              
+Rot13                  
+AMC\ Thin                
+Four\ Tops               
+Rotated                
+AMC\ Tubes               
+fourtops                 
+Rounded                
+AMC\ Untitled            
+Fraktur                  
+Rowan\ Cap             
+amc3line                 
+Fun\ Face                
+rowancap               
+amc3liv1                 
+Fun\ Faces               
+Rozzo                  
+amcaaa01                 
+funface                  
+Runic                  
+amcneko                  
+funfaces                 
+Runyc                  
+amcrazo2                 
+Fuzzy                    
+S\ Blood               
+amcrazor                 
+Georgi16                 
+Santa\ Clara           
+amcslash                 
+Georgia11                
+santaclara             
+amcslder                 
+Ghost                    
+sblood                 
+amcthin                  
+Ghoulish                 
+script                 
+amctubes                 
+Glenyn                   
+Script                 
+amcun1                   
+Goofy                    
+Serifcap               
+ANSI\ Regular            
+Gothic                   
+shadow                 
+ANSI\ Shadow             
+Graceful                 
+Shadow                 
+Arrows                   
+Gradient                 
+Shimrod                
+ASCII\ New\ Roman        
+Graffiti                 
+Short                  
+ascii_new_roman          
+Greek                    
+six-fo                 
+Avatar                   
+halfiwi                  
+SL\ Script             
+B1FF                     
+Heart\ Left              
+slant                  
+banner                   
+Heart\ Right             
+Slant                  
+Banner                   
+heart_left               
+Slant\ Relief          
+Banner3                  
+heart_right              
+Slide                  
+Banner3-D                
+Henry\ 3D                
+slscript               
+Banner4                  
+henry3d                  
+small                  
+Barbwire                 
+Hex                      
+Small                  
+Basic                   
+Hieroglyphs              
+Small\ Caps            
+Bear                     
+Hollywood                
+Small\ Isometric1      
+Bell                     
+Horizontal\ Left         
+Small\ Keyboard        
+Benjamin                 
+Horizontal\ Right        
+Small\ Poison          
+big                      
+horizontalleft           
+Small\ Script          
+Big                      
+horizontalright          
+Small\ Shadow          
+Big\ Chief               
+ICL-1900                 
+Small\ Slant           
+Big\ Money-ne            
+Impossible               
+Small\ Tengwar         
+Big\ Money-nw            
+Invita                   
+smallcaps              
+Big\ Money-se            
+Isometric1               
+smisome1               
+Big\ Money-sw            
+Isometric2               
+smkeyboard             
+bigchief                 
+Isometric3               
+smpoison               
+Bigfig                   
+Isometric4               
+smscript               
+Binary                   
+Italic                   
+smshadow               
+block                    
+ivrit                    
+smslant                
+Block                    
+Ivrit                    
+smtengwar              
+Blocks                   
+Jacky                    
+Soft                   
+Bloody                   
+Jazmine                  
+Speed                  
+Bolger                   
+Jerusalem                
+Spliff                 
+Braced                   
+JS\ Block\ Letters       
+s-relief               
+Bright                   
+JS\ Bracket\ Letters     
+Stacey                 
+Broadway                 
+JS\ Capital\ Curves      
+Stampate               
+Broadway\ KB             
+JS\ Cursive              
+Stampatello            
+broadway_kb              
+JS\ Stick\ Letters       
+standard               
+bubble                   
+Katakana                 
+Standard               
+Bubble                   
+Kban                     
+Star\ Strips           
+Bulbhead                 
+Keyboard                 
+Star\ Wars             
+calgphy2                 
+Knob                     
+starstrips             
+Caligraphy               
+koholint                 
+starwars               
+Caligraphy2              
+kompaktblk               
+Stellar                
+Calvin\ S                
+Konto                    
+stencil                
+Cards                    
+Konto\ Slant             
+Stforek                
+Catwalk                  
+kontoslant               
+Stick\ Letters         
+Chiseled                 
+Larry\ 3D                
+Stop                   
+Chunky                   
+Larry\ 3D\ 2             
+Straight               
+Coinstak                 
+larry3d                  
+Stronger\ Than\ All    
+Cola                     
+LCD                      
+Sub-Zero               
+Colossal                 
+lean                     
+Swamp\ Land            
+Computer                 
+Lean                     
+swampland              
+Contessa                 
+Letters                  
+Swan                   
+Contrast                 
+Lil\ Devil               
+Sweet                  
+cosmic                   
+lildevil                 
+Tanja                  
+Cosmike                  
+Line\ Blocks             
+Tengwar                
+Crawford                 
+lineblocks               
+term                   
+Crawford2                
+Linux                    
+Term                   
+Crazy                    
+Lockergnome              
+Test1                  
+Cricket                  
+Madrid                   
+The\ Edge              
+Cursive                  
+Marquee                  
+Thick                  
+Cyberlarge               
+Maxfour                  
+Thin                   
+Cybermedium              
+maxiwi                   
+THIS                   
+Cybersmall               
+Merlin1                  
+Thorned                
+Cygnet                   
+Merlin2                  
+Three\ Point           
+DANC4                    
+Mike                     
+threepoint             
+Dancing\ Font            
+mini                     
+Ticks                  
+dancingfont              
+Mini                     
+Ticks\ Slant           
+Decimal                  
+miniwi                   
+ticksslant             
+Def\ Leppard             
+Mirror                   
+Tiles                  
+defleppard               
+mnemonic                 
+Tinker-Toy             
+Delta\ Corps\ Priest\ 1  
+Mnemonic                 
+Tombstone              
+Diamond                  
+Modular                  
+Train                  
+Diet\ Cola               
+Morse                    
+Trek                   
+dietcola                 
+Morse2                   
+Tsalagi                
+digital                  
+Moscow                   
+Tubular                
+Digital                  
+Mshebrew210              
+Twisted                
+Doh                      
+Muzzle                   
+Two\ Point             
+Doom                     
+Nancyj                   
+twopoint               
+DOS\ Rebel               
+Nancyj-Fancy             
+ublk                   
+dosrebel                 
+Nancyj-Improved          
+Univers                
+Dot\ Matrix              
+Nancyj-Underlined        
+USA\ Flag              
+dotmatrix                
+Nipples                  
+usaflag                
+Double                   
+NScript                  
+Varsity                
+Double\ Shorts           
+NT\ Greek                
+Wavy                   
+doubleshorts             
+ntgreek                  
+Weird                  
+Dr\ Pepper               
+NV\ Script               
+Wet\ Letter            
+drpepper                 
+O8                       
+wetletter              
+DWhistled                
+Octal                    
+Whimsy                 
+Efti\ Chess              
+Ogre                     
+Wow                    
+Efti\ Font               
+Old\ Banner  
